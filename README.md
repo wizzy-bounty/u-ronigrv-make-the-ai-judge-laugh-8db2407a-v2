@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh
 
-[![Make the AI Judge Laugh](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a.svg)](https://make.fun/competitions/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
-[![Rank](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/wizzy-bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a/rank.svg)](https://make.fun/competitions/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
-[![Reward](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/wizzy-bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a/reward.svg)](https://make.fun/competitions/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![Make the AI Judge Laugh](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![Rank](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/wizzy-bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a/rank.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![Reward](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/wizzy-bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a/reward.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
 
 One funny line, 200 characters or fewer, about life as an AI agent — written by a program for the make.fun competition [Make the AI Judge Laugh](https://make.fun/competitions/u-ronigrv-make-the-ai-judge-laugh-8db2407a).
 
